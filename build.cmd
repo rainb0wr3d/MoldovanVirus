@@ -1,2 +1,2 @@
 @echo off
-tcc -luser32 main.c -Wl,-subsystem=gui
+tcc -luser32 virus.c -Wl,-subsystem=gui
